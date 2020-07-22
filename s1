@@ -1,1 +1,2 @@
 This is first remote repo file
+Added newline from working tree in local repo. We will push this using git push to the remote repo
